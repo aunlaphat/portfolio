@@ -1,1 +1,0 @@
-/* TranslationService from canvas */
